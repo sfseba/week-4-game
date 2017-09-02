@@ -1,0 +1,102 @@
+/*@font-face {
+    font-family: myFirstFont;
+    src: url(Mantinia.otf);
+}*/
+* {
+  font-family: "slim joe" !important;
+}
+.button {
+  margin-top: 13px;
+  font-size: 20px;
+
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+.col-md-2 {
+  margin: 0;
+
+}
+.header {
+  margin-top: 25px;
+
+}
+#message {
+  text-align: center;
+  color: #9fa8a3;
+  font-size: 18px;
+  margin-top: 12px;
+  font-weight: 600;
+}
+#wins {
+  text-align: center;
+  color: #9fa8a3;
+  font-size: 18px;
+  font-weight: 600;
+ }
+#lose {
+  text-align: center;
+  color: #9fa8a3;
+  font-size: 18px;
+  font-weight: 600;
+}
+.text-center {
+  font-family: "slim joe" !important;
+  font-size: 35px !important;
+  color: #9fa8a3;
+  font-weight: 600;
+}
+#scoreMine {
+  line-height: 3.5em;
+}
+#score {
+  text-align: center;
+  font-size: 25px;
+  color: #9fa8a3;
+  font-weight: 600;
+}
+#explain {
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: "slim joe" !important;
+  color: #9fa8a3;
+  font-weight: 600;
+}
+#first {
+  background: linear-gradient(to right,  #e3e0cf 0%, #e3e0cf 50%,#fff 50%);
+  width: 100%;
+  color: #1d2120;
+  font-weight: 600;
+}
+#randomNumberShowBox {
+  background: linear-gradient(to right,  #9fa8a3 0%, #9fa8a3 5%, #c5d5cb 50%);
+  width: 100%;
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  color: #9fa8a3;
+
+
+}
+#randomNumber {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 2.5em;
+}
+#crystalsImages {
+  background: linear-gradient(to right,  #9fa8a3 0%, #9fa8a3 5%, #c5d5cb 50%);
+  width: 100%;
+  height: 250px;
+}
+#ScoreByMeShowBox {
+  background: linear-gradient(to right,  #9fa8a3 0%, #9fa8a3 5%, #c5d5cb 50%);
+  width: 100%;
+  height: 150px;
+}
+#resultBox {
+  background: linear-gradient(to right,  #e3e0cf 0%, #e3e0cf 50%,#fff 50%);
+  width: 100%;
+  height: 113px;
+}
